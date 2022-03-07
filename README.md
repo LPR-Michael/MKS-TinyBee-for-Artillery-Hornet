@@ -8,8 +8,9 @@ After my original Artillery Ruby board inside Artillery Hornet die... That's all
 
 原机的主板被我短路烧了，掂量了掂量原配的价格然后选择了创客基地的这款MKS-TinyBee（话说大黄蜂和小蜜蜂还挺配？），调试过程中遇到了很多的问题...所以我修改了固件使其适用于云图创智大黄蜂。
 
-MKS-TinyBee Board github page： https://github.com/makerbase-mks/MKS-TinyBee
-Original Artillery Hornet firmware page：https://github.com/artillery3d/hornet-firmware
+MKS-TinyBee Board github page： <https://github.com/makerbase-mks/MKS-TinyBee>
+
+Original Artillery Hornet firmware page：<https://github.com/artillery3d/hornet-firmware>
 
 ## 【IMPORTANT 重点】 Wiring 接线
 
