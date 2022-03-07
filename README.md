@@ -21,6 +21,6 @@ IO 140: Motherboard cooling fan pwm 主板散热风扇PWM
 
 -=THIS PIN IS FAN'S GND PIN=- -=这里应连接风扇负极=-
 
-IO 141: Kill_PIN (This pin connect relay module pin)(IN 此接口连接继电器模块IN)
+IO 141: Kill_PIN (This pin connect relay module pin IN) (此接口连接继电器模块IN)
 
 IO 142: PS_ON_PIN (nothing connected)
