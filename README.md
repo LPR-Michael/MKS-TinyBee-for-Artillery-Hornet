@@ -29,3 +29,9 @@ I did not use the E1 extruder according to my needs, so I moved the driver IO in
 - IO 141: Kill_PIN (This pin connect relay module pin)(IN 此接口连接继电器模块IN)
 
 - IO 142: PS_ON_PIN (nothing connected)
+
+## IMAGE 图像
+
+![info screen](https://github.com/LPR-Michael/MKS-TinyBee-for-Artillery-Hornet/blob/main/PHOTOS/info%20screen.jpeg)
+
+![load screen](https://github.com/LPR-Michael/MKS-TinyBee-for-Artillery-Hornet/blob/main/PHOTOS/load%20screen.jpeg)
