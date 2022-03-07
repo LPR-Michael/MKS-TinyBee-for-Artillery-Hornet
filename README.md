@@ -15,9 +15,9 @@ Basically, the original wires on the machine can find the corresponding interfac
 
 基本上原本机器上的线都找到对应的接口连接即可，不过风扇的接线有所不同。由于针脚定位不同，原机风扇红色端子需要插入主板的黑色插线座，原机蓝色风扇端子插入洋红色插线座。
 
-I did not use the E1 extruder according to my needs, so I moved the driver IO interface of the extruder E1 (140 141 142) to support the power-off and motherboard cooling fan pwm speed regulation. See the picture for details:
+I did not use the E1 extruder according to my needs, so I moved the IO interface of the extruder E1 's driver (140 141 142) to support the power-off and motherboard cooling fan pwm speed regulation. See the picture for details:
 
-我按照我的需求并未使用E1挤出机，所以将挤出机E1的IO接口140 141 142 挪做他用以支持打完关机和主板散热风扇pwm调速。
+我按照我的需求并未使用E1挤出机，所以将挤出机E1驱动的IO接口140 141 142 挪做他用以支持打完关机和主板散热风扇pwm调速。
 
 IO 140: Motherboard cooling fan pwm 主板散热风扇PWM
 
