@@ -1,6 +1,6 @@
 # MKS-TinyBee-for-Artillery-Hornet
 
-Malin firmware For MKS-TinyBee Board to replace original Artillery Hornet board. 
+Malin firmware For MKS-TinyBee Board to replace original Artillery Hornet board.
 适用于云图创智大黄蜂3D打印机创客基地TinyBee主板所修改的马林固件。
 
 After my original Artillery Ruby board inside Artillery Hornet die... That's all my bad... I Choose MKS-TinyBee to replace that dead borad. But it has a lot of problems. So I tweaked it. A Hornet with Tiny Bee  inside LOL ;)
@@ -11,13 +11,15 @@ MKS-TinyBee Board github page： <https://github.com/makerbase-mks/MKS-TinyBee>
 
 Original Artillery Hornet firmware page：<https://github.com/artillery3d/hornet-firmware>
 
+MarlinFirmware github page：<https://github.com/MarlinFirmware/Marlin>
+
 ## 【IMPORTANT 重点】 Wiring 接线
 
 Basically, the original wires on the machine can find the corresponding interface connection, but the wiring of the fan is different. Due to the different pin positioning, the original fan red plug needs to be inserted into the black socket on the motherboard, and the original machine blue fan plug needs to be inserted into the magenta socket.
 
 基本上原本机器上的线都找到对应的接口连接即可，不过风扇的接线有所不同。由于针脚定位不同，原机风扇红色端子需要插入主板的黑色插线座，原机蓝色风扇端子插入洋红色插线座。
 
-I did not use the E1 extruder according to my needs, so I moved the driver IO interface of the extruder E1 (140 141 142) to support the power-off and motherboard cooling fan pwm speed regulation. See down below for details: 
+I did not use the E1 extruder according to my needs, so I moved the driver IO interface of the extruder E1 (140 141 142) to support the power-off and motherboard cooling fan pwm speed regulation. See down below for details:
 
 我按照我的需求并未使用E1挤出机，所以将挤出机E1的IO接口140 141 142 挪做他用以支持打完关机和主板散热风扇pwm调速。详见下面文档：
 
