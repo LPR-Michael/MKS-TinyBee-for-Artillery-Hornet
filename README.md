@@ -38,3 +38,7 @@ load screen 启动屏
 
 info screen 信息屏
    ![info screen](https://github.com/LPR-Michael/MKS-TinyBee-for-Artillery-Hornet/blob/main/PHOTOS/info%20screen.jpeg)
+
+## 设置中文为打印机默认语言
+
+拷贝 目录：“中文作为打印机默认语言 set Chinese as def” 下 “Marlin” 中的两个文件替换 “Firmware” 下 “Marlin” 中文件即可
