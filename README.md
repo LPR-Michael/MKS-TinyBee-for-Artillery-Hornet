@@ -1,4 +1,5 @@
-MKS-TinyBee-for-Artillery-Hornet
+#MKS-TinyBee-for-Artillery-Hornet
+
 Malin firmware For MKS-TinyBee Board to replace original Artillery Hornet board.
 
 适用于云图创智大黄蜂3D打印机创客基地TinyBee主板所修改的马林固件。
@@ -7,7 +8,7 @@ After my original Artillery Ruby board inside Artillery Hornet die... That's all
 
 原机的主板被我短路烧了，掂量了掂量原配的价格然后选择了创客基地的这款MKS-TinyBee（话说大黄蜂和小蜜蜂还挺配？），调试过程中遇到了很多的问题...所以我修改了固件使其适用于云图创智大黄蜂。
 
-【IMPORTANT 重点】 Wiring 接线
+#【IMPORTANT 重点】 Wiring 接线
 Basically, the original wires on the machine can find the corresponding interface connection, but the wiring of the fan is different. Due to the different pin positioning, the original fan red plug needs to be inserted into the black socket on the motherboard, and the original machine blue fan plug needs to be inserted into the magenta socket.
 
 基本上原本机器上的线都找到对应的接口连接即可，不过风扇的接线有所不同。由于针脚定位不同，原机风扇红色端子需要插入主板的黑色插线座，原机蓝色风扇端子插入洋红色插线座。
